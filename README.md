@@ -12,7 +12,7 @@ for more information.
  ["Part_1.m"](https://github.com/linofex/Neural-Color-Comparator/blob/master/Part_1.m) and  ["Part_2.m"](https://github.com/linofex/Neural-Color-Comparator/blob/master/Part_2.m)
 scripts performs the specification requirements
 
-Group members: ["linofex"](https://github.com/linofex) ["fcondo"](https://github.com/fcondo)
+Group members: [linofex](https://github.com/linofex) [fcondo](https://github.com/fcondo)
 
 
 
